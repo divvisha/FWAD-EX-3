@@ -23,6 +23,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## CODE
+```
 <html>
 <head>
 <title>Project Exhibition Schedule</title>
@@ -98,7 +99,7 @@ h3 {text-align: center;}
 
 </style>
 </html>
-
+```
 ## OUTPUT
 ![Alt text](<fwad ex3 op.png>)
 
