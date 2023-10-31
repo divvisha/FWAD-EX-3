@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## DATE: 05/10/2023
+## DATE: 23.09.2023
 ## AIM
 To write a html webpage page to display your slot timetable.
 
@@ -32,10 +32,9 @@ Execute the program using runserver command.
         <title>SLOT TIME TABLE</title>
     </head>
     <body>
-        <img src="web_logo.png" alt="Saveetha Engineering college" width="70%" style="margin-left: auto;margin-right: auto;display: block;">
-        <h3 style="text-align: center;">SLOT TIME TABLE - DIVYASHREE B S (212221040044)</h3>
+        <img src="web_logo.png " alt="Saveetha Engineering college" width="70%" style="margin-left: auto;margin-right: auto;display: block;">
         <table border="5 black" style="text-align: center;margin-left: auto;margin-right: auto;width: 70%;height:300px;">
-            <tr style="background-color: crimson;font-size: large;">
+            <tr style="background-color: orange;font-size: large;">
                 <td style="font-weight: bold;">Day/Time</td>
                 <td style="font-weight: bold;">Monday</td>
 		        <td style="font-weight: bold;">Tuesday</td>
@@ -46,16 +45,16 @@ Execute the program using runserver command.
             <tr>
                 <td style="background-color: coral;font-weight: bold;">8-10</td>
                 <td colspan="3";>FREESLOT</td>
-                <td>PHY</td>
-                <td>CHE</td>
+                <td>MAD</td>
+                <td>CNS</td>
             </tr>
             <tr>
                 <td style="background-color: coral;font-weight: bold;">10-12</td>
-                <td>GER</td>
+                <td>JAP</td>
                 <td>FREE SLOT</td>
                 <td>FWAD</td>
                 <td>FWAD</td>
-                <td>PHY</td>
+                <td>MAD</td>
             </tr>
             <tr>
                 <td style="background-color: coral;font-weight: bold;">12-1</td>
@@ -64,15 +63,15 @@ Execute the program using runserver command.
             <tr>
                 <td style="background-color: coral;font-weight: bold;">1-3</td>
                 <td colspan="2">FREESLOT</td>
-                <td>MAT</td>
-                <td>MAT</td>
-                <td>SS</td>
+                <td>EVS</td>
+                <td>MATH</td>
+                <td>MATH</td>
             </tr>
             <tr>
                 <td style="background-color: coral;font-weight: bolder;">3-5</td>
                 <td colspan="2">FREESLOT</td>
-                <td>GER</td>
-                <td>CHE</td>
+                <td>OS</td>
+                <td>CNS</td>
                 <td>FWAD</td>
             </tr>
         </table>
@@ -90,34 +89,34 @@ Execute the program using runserver command.
             <tr>
                 <td style="text-align: center;">2</td>
                 <td style="text-align: center;">19EN612</td>
-                <td>German Basics (GER)</td>
+                <td>Japanese Basics (JAP)</td>
             </tr>
             <tr>
                 <td style="text-align: center;">3</td>
                 <td style="text-align: center;">19PH206</td>
-                <td>Physics for Information Technology (PHY)</td>
+                <td>Mobile App Development (MAD)</td>
             </tr>
             <tr>
                 <td style="text-align: center;">4</td>
                 <td style="text-align: center;">19CY205</td>
-                <td>Principles of Chemistry in Engineering (CHE)</td>
+                <td>Algebra and number theory(MATH)</td>
             </tr>
             <tr>
                 <td style="text-align: center;">5</td>
                 <td style="text-align: center;">19MA201</td>
-                <td>Calculus and Matrix Algebra (MAT)</td>
+                <td>Cryptography and network security (CNS)</td>
             </tr>
             <tr>
                 <td style="text-align: center;">6</td>
                 <td style="text-align: center;">19EY701</td>
-                <td>Soft Skills (SS)</td>
+                <td>Environmental Science(EVS)</td>
             </tr>
         </table>
     </body>
 </html>
 ```
 ## OUTPUT
-<img width="959" alt="fwad ex3 op2" src="https://github.com/divvisha/FWAD-EX-3/assets/127508123/9cf468f9-4cb1-4807-ba28-67eecaad2607">
+<img width="960" alt="Screenshot 2023-10-31 161828" src="https://github.com/divvisha/FWAD-EX-3/assets/127508123/a4d97fb2-2e7a-4fd1-aedf-9321c637ad69">
 
 
 ## RESULT
